@@ -2,6 +2,6 @@
 {
     class Initializer
     {
-        public int MyProperty { get; set; } = 42;
+        public int Meaning { get; set; } = 42;
     }
 }
